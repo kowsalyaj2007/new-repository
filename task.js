@@ -81,7 +81,7 @@ function ac() {
         p1.innerHTML = "  ";
     }
     else{
-        p1.innerHTML = "You are not eligible to vote";
+        p1.innerHTML = "  ";
     }
 }
 
