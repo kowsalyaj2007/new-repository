@@ -76,12 +76,6 @@ function ac() {
     let u = c.getFullYear() - v.getFullYear(); // simple year difference
     
     p.innerHTML = "Your age is " + u +" years old."
-    if (u>=18){
-        p1.innerHTML = "You are eligible to vote"
-    }
-    else{
-        p1.innerHTML = "You are not eligible to vote"
-    }
-}
+  
 
 document.getElementById("btn").addEventListener("click", ac);
