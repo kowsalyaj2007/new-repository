@@ -65,6 +65,7 @@ p1.style.marginTop="2px";
 p1.style.padding="2px";
 p1.style.marginLeft="20px";
 p1.style.marginRight="20px";
+p1.style.marginBottom="20px";
 p1.style.textAlign="center";
 
 
@@ -77,10 +78,10 @@ function ac() {
     
     p.innerHTML = "Your age is " + u +" years old."
     if (u>=18){
-        p1.innerHTML = " "
+        p1.innerHTML = "You are eligible to vote";
     }
     else{
-        p1.innerHTML = " "
+        p1.innerHTML = "You are not eligible to vote";
     }
 }
 
