@@ -9,7 +9,7 @@ a.style.backgroundColor = "rgb(95, 42, 23)";
 a.style.borderRadius="5px";
 a.style.margin = "10px";
 a.style.width="300px";
-a.style.height="300px";
+a.style.height="500px";
 console.log(a);
 
 let k=document.getElementById("p1")
