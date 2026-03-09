@@ -53,19 +53,12 @@ btn.style.backgroundColor="blue";
 btn.style.textAlign="center";
 
 let p = document.getElementById("p4");
-let p1 = document.getElementById("p5");
+
 p.style.marginTop="2px";
 p.style.padding="2px";
 p.style.marginLeft="20px";
 p.style.marginRight="20px";
 p.style.textAlign="center";
-
-p1.style.marginBottom="20px";
-p1.style.marginTop="2px";
-p1.style.padding="2px";
-p1.style.marginLeft="20px";
-p1.style.marginRight="20px";
-p1.style.textAlign="center";
 
 
 function ac() {
