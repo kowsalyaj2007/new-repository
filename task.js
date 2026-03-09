@@ -78,7 +78,7 @@ function ac() {
     
     p.innerHTML = "Your age is " + u +" years old."
     if (u>=18){
-        p1.innerHTML = "You are eligible to vote";
+        p1.innerHTML = "  ";
     }
     else{
         p1.innerHTML = "You are not eligible to vote";
